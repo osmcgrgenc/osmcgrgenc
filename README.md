@@ -1,27 +1,43 @@
-
 ## 👋 &nbsp;Hi, who am I?
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Hi, I'm Osman Çağrı. I live in Konya, Turkey. I'm Software Developer. My best programming language is Javascript (VueJs, NodeJs, Vanilla JS etc.). Since 2017,  
+💡 Hi, I'm **Osman Çağrı**, a passionate software developer based in **Konya, Turkey**. With over **7 years of experience**, I specialize in **frontend development**, focusing on creating clean, efficient, and user-friendly interfaces. My expertise lies in **JavaScript**, especially **Next.js**, **React**, **Angular**, and **Node.js**.  
+
+I thrive in challenging projects where I can combine my technical skills with creativity to solve problems and deliver impactful solutions. Beyond coding, I enjoy sharing my knowledge through blogs, YouTube videos, and mentoring aspiring developers.  
 
 <img alt="Night Coding" src="https://i.ibb.co/8zJYqRW/Night-Coding.gif" align="right"/>
 
+---
+
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+#### **Frontend**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=dd0031)&nbsp;
+
+#### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![CSharp](https://img.shields.io/badge/-csharp-05122A?style=flat&logo=CSHARP&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+
+#### **Styling**
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+
+#### **Other Tools & Technologies**
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -32,3 +48,4 @@
 </a>
 </p>
 
+---
