@@ -1,51 +1,55 @@
-## 👋 &nbsp;Hi, who am I?
+# 👋 Merhaba, ben Osman Çağrı Genç | Hello, I'm Osman Çağrı Genç
 
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 Hi, I'm **Osman Çağrı**, a passionate software developer based in **Konya, Turkey**. With over **7 years of experience**, I specialize in **frontend development**, focusing on creating clean, efficient, and user-friendly interfaces. My expertise lies in **JavaScript**, especially **Next.js**, **React**, **Angular**, and **Node.js**.  
-
-I thrive in challenging projects where I can combine my technical skills with creativity to solve problems and deliver impactful solutions. Beyond coding, I enjoy sharing my knowledge through blogs, YouTube videos, and mentoring aspiring developers.  
-
-<img alt="Night Coding" src="https://i.ibb.co/8zJYqRW/Night-Coding.gif" align="right"/>
+**Frontend Takım Lideri • Yazılım Mühendisi • 8+ Yıl Deneyim**  
+**Frontend Team Lead • Software Engineer • 8+ Years of Experience**
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+## 🇹🇷 Hakkımda (About Me in Turkish)
 
-#### **Frontend**
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=dd0031)&nbsp;
+Merhaba! Ben Osman. 8 yılı aşkın süredir yazılım geliştiriyorum.  
+Ağırlıklı olarak **React**, **Next.js**, **TypeScript**, **Node.js** ve **Go** teknolojileriyle çalışıyorum.  
+Şu anda [**Enoca**](https://www.enoca.com)'da **Frontend Takım Lideri** olarak görev alıyorum.
 
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+Kod kalitesine, ekip gelişimine ve performans odaklı uygulamalar geliştirmeye büyük önem veririm.  
+Ayrıca **Codifya** markası altında yazılım danışmanlığı ve açık kaynak projeler üretmeye devam ediyorum.
 
-#### **Styling**
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-
-#### **Other Tools & Technologies**
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+- 🔭 Aktif Projem: [Codifya Finance](https://github.com/osmcgrgenc/codifya-finance)
+- ✍️ Paylaşımlar: [Bluesky Profilim](https://bsky.app/profile/osmcgrgenc.bsky.social)
+- 📬 İletişim: osmcgrgenc@gmail.com
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🇬🇧 About Me (English Version)
 
-<p align="center">
-<a href="https://github.com/osmcgrgenc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=osmcgrgenc&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=osmcgrgenc&langs_count=8&layout=compact&theme=algolia"/>
-</a>
-</p>
+Hi! I'm Osman, a passionate software engineer with over 8 years of experience.  
+I mostly work with **React**, **Next.js**, **TypeScript**, **Node.js**, and **Go**.  
+Currently, I'm working as a **Frontend Team Lead** at [**Enoca**](https://www.enoca.com).
+
+I care deeply about clean code, team growth, and performance-focused architecture.  
+I'm also building open-source projects and consulting under the **Codifya** brand.
+
+- 🔭 Active Project: [Codifya Finance](https://github.com/osmcgrgenc/codifya-finance)
+- ✍️ Sharing ideas on: [My Bluesky](https://bsky.app/profile/osmcgrgenc.bsky.social)
+- 📬 Reach me: osmcgrgenc@gmail.com
 
 ---
+
+## 🚀 Teknolojiler / Tech Stack
+
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `TailwindCSS` · `Prisma` · `PostgreSQL` · `Docker`
+
+---
+
+## 📌 Öne Çıkan Projeler / Featured Projects
+
+| Proje | Açıklama |
+|-------|----------|
+| [Codifya Finance](https://github.com/osmcgrgenc/codifya-finance) | Kişisel finans yönetim sistemi / Personal finance tracker |
+| [Codifya Store](https://github.com/osmcgrgenc/codifya-store) | E-ticaret şablonu / Modern e-commerce template |
+| [Frontend Utils](https://github.com/osmcgrgenc/frontend-utils) | Reusable bileşen ve yardımcı fonksiyonlar / Reusable components & utilities |
+
+---
+
+> “Yazılım sadece kod değildir; ekip, ürün ve vizyon işidir.”  
+> "Software is not just code; it's team, product, and vision."
